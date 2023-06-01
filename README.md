@@ -4,6 +4,6 @@ A search for NZEB (Net Zero Energy Building) and BIM (Building Integration Manag
 
 Softwares:
 
-| Software | Description |
---------------------------
+| Software  |  Description |
+|-----------|--------------|
 | (spaceworxs)[https://spaceworx.com/net-zero-energy-building/] | |
